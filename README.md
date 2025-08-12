@@ -69,7 +69,10 @@ Version 6.02 Notes. -- VE7VXO
 Version 6.03 Notes. -- VE7VXO
 
   -- Minor display tweaks.
+  
   -- New subroutine to read power regs from LTC2945
+  
   -- Hysteresis added to SWR display
+
 
 
